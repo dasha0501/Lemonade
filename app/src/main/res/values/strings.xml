@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="first_tap">Нажмите на лимонное деревро, чтобы собрать лимоны</string>
+    <string name="second_tap">Продолжайте постукивать по лимону, чтобы выжать из него сок</string>
+    <string name="third_tap">Постучите по лимонаду, чтобы выпить его</string>
+    <string name="fourth_tap">Нажмите на пустой стакан, чтобы начать заново</string>
+
+</resources>
